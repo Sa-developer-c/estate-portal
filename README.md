@@ -74,11 +74,6 @@
 <img src="https://github.com/user-attachments/assets/c58e5286-96bc-4c3b-8036-3d7eef531187" width="600" />
 <img src="https://github.com/user-attachments/assets/45cfebd3-47e9-43e6-9ca1-2ba7316f9a24" width="600" />
 
----
-
-## 📂 Project Structure | هيكل المشروع
-
-
 
 
 ---
